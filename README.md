@@ -2,7 +2,7 @@
 
 This app aims to provide a corporate booking solution for our customers.
 
-**Currently** the app is divided into two main parts: [Clients](client.md) and [Admins](admins.md)
+**Currently** the app is divided into two main parts: [Clients](clients.md) and [Admins](admin.md)
 
 **Client**
 - create and submit booking requests
