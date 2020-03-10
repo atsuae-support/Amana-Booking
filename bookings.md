@@ -1,7 +1,5 @@
 # Bookings 
 
-Bookings 
-
 ## Creating Bookings
 
 Creating bookings are mainly for the bookers, 

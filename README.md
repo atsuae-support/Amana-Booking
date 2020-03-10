@@ -9,5 +9,6 @@ This app aims to provide a corporate booking solution for our customers.
 - view previous transactions
 
 **Admin**
-- Manage all bookings details 
-- Handle Vehicle 
+- manage all bookings details 
+- handle Equipment availability
+- handle Booker Accounts
