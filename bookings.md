@@ -97,6 +97,6 @@ The Admin has a choice whether they approve or disapprove the booking.
 
 they can click the check button to approve, or the cross button to disapprove
 
-<img src="./media/Client/approve.jpg"
+<img src="./media/Client/approve.png"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 200px" />
