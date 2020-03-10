@@ -21,13 +21,13 @@ The Home Page displays a dashboard containing info of the total number of Units,
 Here you can access the links to the pages where you can book a vehicle.
 
 
-<img src="/media/admin/dashboard.jpg"
+<img src="/media/Admin/dashboard.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 200px" />   
 
 ### Sidebar Navigation
 
-<img src="/media/admin/sidebar.jpg"
+<img src="/media/Admin/sidebar.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; " />   
 

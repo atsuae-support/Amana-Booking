@@ -11,7 +11,7 @@ The Signup page takes in the user details.
 Once the details have been filled out and register is clicked, A Verification Mail will be sent to the user's Email Address.
 
 
-<img src="/media/client/signup.jpg"
+<img src="/media/Client/signup.jpg"
      alt="User creation"
      style="margin-left: auto; margin-right: auto; height: 400px" />
 
@@ -27,7 +27,7 @@ Bookings are divided into three categories:
 - [Kilometer Rate Bookings](clients.md#Kilometer-Rate-Bookings)
 
 
-<img src="/media/client/welcome.jpg"
+<img src="/media/Client/welcome.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 400px" />
 
@@ -39,7 +39,7 @@ Bookings are divided into three categories:
 Redirects the page back to the Welcome Page.
 
 ##### My Bookings
-<img src="/media/client/nav1.jpg"
+<img src="/media/Client/nav1.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 200px" />   
 
@@ -47,19 +47,19 @@ Redirects the page back to the Welcome Page.
 Shows a table containing all the Pending Bookings the User has.
 
 Tables are separated by the type of Booking.
-<img src="/media/client/bookingtables.jpg"
+<img src="/media/Client/bookingtables.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto;" />
 
 
-<img src="/media/client/editbutton.jpg"
+<img src="/media/Client/editbutton.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto;" />
 Bookings can be edited by clicking the edit button.
 
 Clicking the edit the button will redirect the page to the [booking page](booking.md#Bookings).
 
-<img src="/media/client/cancelbutton.jpg"
+<img src="/media/Client/cancelbutton.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto;" />
 Bookings can be cancelled by clicking the cancel button.
@@ -82,12 +82,12 @@ Options include:
 - Print
 - Copy/Paste
 
-<img src="/media/client/summary.jpg"
+<img src="/media/Client/summary.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 400px" />
 
 ##### Account
-<img src="/media/client/nav2.jpg"
+<img src="/media/Client/nav2.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 200px" />
 
@@ -99,7 +99,7 @@ Clicking on the Icons will redirect the page to the containing the table of the 
 
 The user can also edit their user details by clicking the "Edit your account" button.
 
-<img src="/media/client/profile.jpg"
+<img src="/media/Client/profile.jpg"
      alt="Welcome Page"
      style="margin-left: auto; margin-right: auto; height: 400px" />
 
